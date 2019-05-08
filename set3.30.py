@@ -1,6 +1,6 @@
-m,n=map(int,input().split())
 a,b=map(int,input().split())
-k=m-a
-p=n-b
-k,p=abs(k),abs(p)
-print(k,p)
+x,y=map(int,input().split())
+p=a-x
+q=b-y
+p,q=abs(p),abs(q)
+print(p,q)

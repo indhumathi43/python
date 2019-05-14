@@ -1,2 +1,2 @@
-n=map(int,input().split())
-print(min(n))
+x=map(int,input().split())
+print(min(x))
